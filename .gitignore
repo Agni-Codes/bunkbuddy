@@ -10,4 +10,3 @@ test-results/
 .lighthouseci/
 .vercel/
 *.tsbuildinfo
-
