@@ -1,0 +1,5 @@
+{
+  "name": "@bunkbuddy/core",
+  "private": true,
+  "type": "module"
+}

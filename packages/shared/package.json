@@ -1,0 +1,5 @@
+{
+  "name": "@bunkbuddy/shared",
+  "private": true,
+  "type": "module"
+}
