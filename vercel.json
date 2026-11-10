@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "buildCommand": "npx --yes pnpm@11.25.0 build",
+  "outputDirectory": "apps/web/dist",
+  "installCommand": "npx --yes pnpm@11.25.0 install --frozen-lockfile"
+}

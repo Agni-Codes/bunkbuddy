@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+  - packages/*
+
+# Patched transitive tooling dependencies flagged by pnpm audit.
+overrides:
+  "basic-ftp@<=6.2.0": 6.2.1
+  "minimatch@>=7.0.0 <11.0.1": 11.0.1

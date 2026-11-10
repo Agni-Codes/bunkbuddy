@@ -1,0 +1,12 @@
+.env*
+!.env.example
+*.har
+**/fixtures/raw/
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.lighthouseci/
+.vercel/
+*.tsbuildinfo
